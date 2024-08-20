@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dm-mono-light {
+  font-family: "DM Mono", monospace;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.dm-mono-regular {
+  font-family: "DM Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-mono-medium {
+  font-family: "DM Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.dm-mono-light-italic {
+  font-family: "DM Mono", monospace;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.dm-mono-regular-italic {
+  font-family: "DM Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+.dm-mono-medium-italic {
+  font-family: "DM Mono", monospace;
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+/* .neon-gradient-shadow {
+  box-shadow: 
+  0 0 20px #ee81ee,
+  0 0 30px #db7edb,
+  0 0 40px #55e7e7,
+  0 0 50px #63dede,
+  0 0 60px #e887e8;
+  transition: box-shadow 300s ease-in-out;
+} */
+
+/* .neon-gradient-shadow:hover {
+  box-shadow: 
+    0 0 20px #ff00ff,
+    0 0 30px #ff00ff,
+    0 0 40px #00ffff,
+    0 0 50px #00ffff,
+    0 0 60px #ff00ff;
+} */
+
