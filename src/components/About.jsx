@@ -76,7 +76,7 @@ function About() {
         </div>
       </div>
       <div className="w-[25vw] mt-20 flex justify-center items-center overflow-hidden rounded-full h-[50vh]" id="photo">
-        <img className="w-full h-full rounded-full" src="/pro2.jpg" alt="profile" />
+        <img className=" w-full h-full rounded-full" src="/pro2.jpg" alt="profile" />
       </div>
       <Resumeviewer opened={opened} close={close} />
     </div>
